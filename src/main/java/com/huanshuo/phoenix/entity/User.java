@@ -11,6 +11,7 @@ import java.util.Date;
 @RequiredArgsConstructor
 public class User {
 
+    //用户属性
     private Integer id;
     private String name;
     private Integer sex;
